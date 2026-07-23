@@ -1,0 +1,5 @@
+D 'multispline': Spline-Based Nonlinear Modeling for Multilevel and Longitudinal Data Use multispline STATA 19
+D
+F multispline.ado
+F multispline_plot.ado
+F multispline.sthlp
